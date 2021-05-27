@@ -5,11 +5,10 @@ import {
     Switch,
 } from "react-router-dom";
 import Home from './Home';
-import Player from './Player';
-import PlayerCustom from './PlayerCustomBeta';
+
 import PlayerCustomControl from './PlayerCustomControl';
 import './App.css';
-import Sidebar from './components/Sidebar';
+
 
 
 function App() {
