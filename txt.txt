@@ -1,0 +1,4 @@
+git status             
+git add . 
+git commit -m "package json changes"
+git push -u origin main             
